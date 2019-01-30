@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_operations">Operations</string>
+    <string name="title_tickets">Tickets</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="message">Message</string>
+    <string name="notification">Notification</string>
+    <string name="detailed_performance">Detailed Performance</string>
+    <string name="sycn">Sycn</string>
+    <string name="Order">Order</string>
+    <string name="Invoices">Invoices</string>
+    <string name="Customers">Customers</string>
+    <string name="Maintenance">Maintenance</string>
+    <string name="CashVan">cashvan</string>
+    <string name="Deliveries">Deliveries</string>
+    <string name="Payment">Payment</string>
+    <string name="Surveys">Surveys</string>
+    <string name="offers">Offers</string>
+    <string name="Catalog">catalog</string>
+    <string name="Return">Return</string>
+    <string name="create_orders">Create Order</string>
+    <string name="create_tickets">Create Tickets</string>
+</resources>
+

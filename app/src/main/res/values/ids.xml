@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <item name="navigation_dashboard" type="id"/>
+    <item name="navigation_tickets" type="id"/>
+    <item name="navigation_operations" type="id"/>
+    <item name="menu_message" type="id"/>
+    <item name="menu_notification" type="id"/>
+    <item name="navigation" type="id"/>
+    <item name="button1" type="id"/>
+    <item name="button2" type="id"/>
+    <item name="order" type="id"/>
+    <item name="returns" type="id"/>
+    <item name="invoices" type="id"/>
+    <item name="payment" type="id"/>
+    <item name="catalog" type="id"/>
+    <item name="surveys" type="id"/>
+    <item name="maintenance" type="id"/>
+    <item name="customers" type="id"/>
+    <item name="cash_van" type="id"/>
+    <item name="offers" type="id"/>
+    <item name="text_view" type="id"/>
+    <item name="search" type="id"/>
+    <item name="deliveries" type="id"/>
+    <item name="order_button" type="id"/>
+    <item name="btn" type="id"/>
+    <item name="main_content" type="id"/>
+    <item name="appbar" type="id"/>
+    <item name="result_tabs" type="id"/>
+
+</resources>

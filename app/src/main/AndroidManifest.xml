@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.megha.myapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MessageActivity" />
+        <activity android:name=".NotificationActivity" />
+        <activity android:name=".Dasshboard_link_pages.BalanceDetailsActivity" />
+        <activity android:name=".Operation_link_pages.OrderActivity" />
+        <activity android:name=".Operation_link_pages.ReturnActivity" />
+        <activity android:name=".Operation_link_pages.InvoicesActivity" />
+        <activity android:name=".Operation_link_pages.PaymentActivity" />
+        <activity android:name=".Operation_link_pages.CatalogActivity" />
+        <activity android:name=".Operation_link_pages.MaintenanceActivity" />
+        <activity android:name=".Operation_link_pages.DelaivriesActivity" />
+        <activity android:name=".Operation_link_pages.CustomersActivity" />
+        <activity android:name=".Operation_link_pages.CashvanActivity" />
+        <activity android:name=".Operation_link_pages.PromotionsActivity" />
+        <activity android:name=".Operation_link_pages.SurveysActivity" />
+        <activity android:name=".Operation_link_pages.PlaceorderActivity" />
+        <activity android:name=".Operation_link_pages.OffersActivity" />
+        <activity android:name=".Operation_link_pages.DetailedPerformanceActivity" />
+        <activity android:name=".Tickets_link_pages.CreateTicketsActivity" />
+        <activity android:name=".Operation_link_pages.PlaceorderActivity"></activity>
+    </application>
+
+</manifest>
